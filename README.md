@@ -9,7 +9,7 @@ Full-Stack Web Developer | Software Engineer
 <br>
 🌐 Passionate about creating web experiences and building strong, scalable apps from front-end to back-end. <br>
 <br>
-🔍 Actively seeking opportunities to leverage my skills in the software development world. <br>
+🔍 Actively seeking opportunities to leverage my skills in the world of software development. <br>
 <br>
 ✉️ You can contact me @ adeebahmed1305@gmail.com
 
