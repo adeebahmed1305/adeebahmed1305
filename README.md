@@ -5,7 +5,7 @@ Full-Stack Web Developer | Software Engineer
 
 🎓 Currently pursuing a Bachelor's degree in Computer Science @ Queens College. <br>
 <br>
-💻 Proficient in a wide array of programming languages including JavaScript, HTML/CSS, C++, Python, Swift/SwiftUI, and Ruby on Rails. I am always looking to learn more! <br>
+💻 Proficient in a wide array of programming languages including JavaScript, HTML/CSS, C++, Python, Swift/SwiftUI, Java, and Ruby on Rails. I am always looking to learn more! <br>
 <br>
 🌐 Passionate about creating web experiences and building strong, scalable apps from front-end to back-end. <br>
 <br>
