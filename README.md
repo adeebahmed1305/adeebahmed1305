@@ -7,7 +7,7 @@ Full-Stack Web Developer | Software Engineer
 <br>
 💻 Proficient in a wide array of programming languages including JavaScript, HTML/CSS, C++, Python, Swift/SwiftUI, and Ruby on Rails. I am always looking to learn more! <br>
 <br>
-🌐 Passionate about creating immersive web experiences and building strong, scalable apps from front-end to back-end. <br>
+🌐 Passionate about creating web experiences and building strong, scalable apps from front-end to back-end. <br>
 <br>
 🔍 Actively seeking opportunities to leverage my skills and drive innovation in the software development landscape. <br>
 <br>
