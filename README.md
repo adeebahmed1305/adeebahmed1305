@@ -31,4 +31,4 @@ Full-Stack Web Developer | Software Engineer
 
 <a href="http://www.github.com/adeebahmed1305"><img src="https://github-readme-stats.vercel.app/api?username=adeebahmed1305&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="adeebahmed1305's GitHub stats" /></a>
 
-<a href="https://github.com/adeebahmed1305" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeebahmed1305&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
